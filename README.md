@@ -30,12 +30,11 @@ Reading | Driving and Cars | Mechanics and Engineering
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 *(also: Prolog, Matlab, Pandas, NumPy, LaTeX, Figma, GitHub Actions…)*  
 
----
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?SemihKanUM&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?SemihKanUM&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemihKanUM&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemihKanUM&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?SemihKanUM&theme=tokyonight&margin-w=10)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=SemihKanUM&theme=tokyonight&margin-w=10)  

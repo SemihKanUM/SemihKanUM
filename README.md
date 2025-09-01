@@ -7,14 +7,14 @@
 ---
 
 ## 💫 About Me  
-- 🧠 Machine Learning → AI-generated image detection in Python , chat-bot in Java
-- 🎮 AI Game Development → Java-based UNO, Tetris, Golf and graph coloring games with MCTS, neural nets, Genetic algorithms , Numerical optimization algorithms and AlphaZero-inspired bots  
-- 📊 Data Engineering → SQL database design for RPG-style games  
-- ☁️ Cloud Computing → Designed and deployed **Azure cloud pipelines** for data workflows and automation  
-- 🚀 Simulation Modeling → modeling in Java 
+- 🧠 Machine Learning → Built projects such as **AI-generated image detection in Python** and a **chat-bot in Java**  
+- 🎮 Game Development & AI → Developed multiple **Java-based games** (UNO, Tetris, Golf, graph coloring, and more) using **object-oriented programming (OOP)**, advanced AI techniques like **MCTS, neural networks, genetic algorithms, numerical optimization**, and **AlphaZero-inspired bots**  
+- 📊 Data Engineering → Designed and optimized **SQL databases** for RPG-style games  
+- ☁️ Cloud Computing → Created and deployed **Azure cloud pipelines** for data workflows and automation  
+- 🚀 Simulation & Modeling → Built simulation models in Java for complex problem-solving  
 
 Outside of coding, I enjoy:  
-Reading | Driving and Cars | Mechanics and Engineering
+📚 Reading | 🚗 Driving & Cars | 🔧 Mechanics & Engineering  
 
 ---
 

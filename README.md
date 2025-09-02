@@ -2,7 +2,6 @@
 
 🎓 Final-year Data Science & Artificial Intelligence student at **Maastricht University** 🇳🇱  
 💡 Passionate about **machine learning, algorithm design, intelligent systems, data analysis and cloud solutions**  
-🔍 Actively seeking **internship or entry-level opportunities** in ML, Data Science, or Software Engineering  
 
 ---
 

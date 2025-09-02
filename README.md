@@ -19,14 +19,7 @@ Outside of coding, I enjoy:
 
 ## 🛠️ Tech Stack  
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 *(also: Prolog, Matlab, Pandas, NumPy, LaTeX, Figma, GitHub Actions…)*  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemihKanUM&layout=compact&theme=tokyonight)  

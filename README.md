@@ -6,9 +6,9 @@
 ---
 
 ## 💫 About Me  
-- 🧠 Machine Learning → Built projects such as **AI-generated image detection in Python** and a **chat-bot in Java**  
+- 🧠 Machine Learning → Built projects such as **AI-generated image detection in Python** and a **chat-bot in Java** , Predictive Modelling
 - 🎮 Game Development & AI → Developed multiple **Java-based games** (UNO, Tetris, Golf, graph coloring, and more) using **object-oriented programming (OOP)**, advanced AI techniques like **MCTS, neural networks, genetic algorithms, numerical optimization approximation algorithms**, and **AlphaZero-inspired bots**  
-- 📊 Data Engineering → Designed and optimized **SQL databases** for RPG-style games , Data Analysis and visualizaiton on complex datasets
+- 📊 Data Engineering → Designed and optimized **SQL databases** for RPG-style games , Data Analysis, visualizaiton, regression and modelling on complex datasets
 - ☁️ Cloud Computing → Deployed Azure-based data infrastructure for workflow automation, storage, and management
 - 🚀 Simulation & Modeling → Built simulation models in Java for complex problem-solving  
 
